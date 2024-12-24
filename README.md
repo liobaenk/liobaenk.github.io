@@ -1,6 +1,6 @@
 # Lioba Enk
 
-[MPI CBS Profile](https://www.cbs.mpg.de/person/enk/1770355){:target="_blank"} | enk.lioba@gmail.com<br>
+[MPI CBS Profile](https://www.cbs.mpg.de/person/enk/1770355) | enk.lioba@gmail.com<br>
 
 <br>
 
