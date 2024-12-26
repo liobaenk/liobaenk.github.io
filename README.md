@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: README
 ---
 
 Personal wbsite created by Lioba Enk.
