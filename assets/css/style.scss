@@ -3,36 +3,21 @@
 
 @import "{{ site.theme }}";
 
-@keyframes color {
-  0%   { background: white; }
-  20%  { background: #fffafa; }
-  40%  { background: #f5f5f5; }
-  60%  { background: #F8F8FF; }
-  80%  { background: #fdfff5; }
-  100% { background: white; }
-}
-
-body {
-  background: white; /* Fallback */
-  animation: color 11s infinite linear;
-  padding: 3em;
-  z-index: 0;
-}
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: Arial;
+    font: Arial;
     color: #3b0954;
     margin:0 0 20px;
 }
 
 p {
-  font-family: Arial;
+  font: Arial;
   color: #7a7b6d;
   z-index: 1;
   font-size: 1.1em;
 }
 
-a:link, a:visited, a:active {
+a {
   color: #7c8800;
 }
 
