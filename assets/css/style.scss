@@ -62,10 +62,12 @@ small {
 
 a {
   color: #7c8800;
+  text-decoration:none;
 }
 
-a:hover {
+a:hover a:focus {
   color: #0C0088;
+  text-decoration:none;
 }
 
 hr {
