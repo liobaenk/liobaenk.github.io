@@ -27,5 +27,3 @@ Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten d
 
 Website Impressum erstellt mittels [impressum-generator.de der Kanzlei Hasselbach](https://www.impressum-generator.de)
 
----
-
