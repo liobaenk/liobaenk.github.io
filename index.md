@@ -5,7 +5,7 @@ title: About
 
 # Lioba Enk
 
-enk.lioba@gmail.com | [MPI CBS profile](https://www.cbs.mpg.de/person/enk/1770355) | [Full CV](assets/pdfs/Enk_CV.pdf)
+[{{ site.email }}](mailto:{{ site.email }}) | [MPI CBS profile](https://www.cbs.mpg.de/person/enk/1770355) | [Full CV](assets/pdfs/Enk_CV.pdf)
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.¶ 
  
