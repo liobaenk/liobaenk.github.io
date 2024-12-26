@@ -11,7 +11,5 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor con
 
 <a href="/assets/pdfs/Enk_CV.pdf" target="_blank">Full CV</a>
 
----
-
 
 
