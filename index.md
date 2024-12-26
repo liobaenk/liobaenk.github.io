@@ -4,12 +4,12 @@ title: "About"
 permalink: /about
 ---
 
-## Hello
+## Education
 
-## Hello
+## Research, clinical and other experience
 
 ## Impressum
 
-[Impressum](Impressum.md).
+[Impressum](Impressum.md)
 
 
