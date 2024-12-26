@@ -12,6 +12,11 @@
   100% { background: red; }
 }
 
+.wrapper {
+  width:860px;
+  margin:0 auto;
+}
+
 body {
   background: white; /* Fallback */
   animation: color 11s infinite linear;
