@@ -1,8 +1,7 @@
 ---
 layout: default
+title: About
 ---
-
-# About
 
 [MPI CBS profile](https://www.cbs.mpg.de/person/enk/1770355)
 
