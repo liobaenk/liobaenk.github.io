@@ -19,6 +19,21 @@ body {
   z-index: 0;
 }
 
+p {
+  font-family: Arial;
+  color: #7a7b6d;
+  z-index: 1;
+  font-size: 1.1em;
+}
+
+a:link, a:visited, a:active {
+  color: #7c8800;
+}
+
+a:hover {
+  color: #0C0088;
+}
+
 small {
   font-size:9px;
 }
