@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: Lioba Enk
 mpicbs_dic : "https://www.cbs.mpg.de/diversity-inclusion-committee"
 mpscogn_cohort21 : "https://cognition.maxplanckschools.org/en/people/doctoral-candidates/2021"
 ---
