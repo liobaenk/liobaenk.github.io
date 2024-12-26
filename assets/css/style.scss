@@ -18,9 +18,8 @@
 }
 
 header {
+  position: relative;
   width:270px;
-  position:fixed;
-  -webkit-font-smoothing:subpixel-antialiased;
 }
 
 img {
@@ -74,9 +73,7 @@ hr {
 }
 
 footer {
+  position: relative;
   width:270px;
-  float:right;
-  position:fixed;
   bottom:50px;
-  -webkit-font-smoothing:subpixel-antialiased;
 }
