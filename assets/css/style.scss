@@ -3,9 +3,12 @@
 
 @import "{{ site.theme }}";
 
+
 body {
-    font-family: Arial; 
-    color: #7a7b6d;
+  background-color: #fff;
+  padding:100px;
+  font: 14px/1.5 Arial;
+  color:#7a7b6d;
 }
 
 h1, h2, h3, h4, h5, h6 {
