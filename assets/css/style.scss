@@ -18,6 +18,7 @@
 }
 
 header {
+  position: relative;
   padding: 20px;
   text-align: left;
   font-size: 30px;
@@ -76,6 +77,8 @@ hr {
 }
 
 footer {
+  width:1000px;
   padding: 60px;
   text-align: right;
+  position: relative;
 }
