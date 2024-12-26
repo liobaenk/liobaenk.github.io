@@ -4,15 +4,17 @@
 @import "{{ site.theme }}";
 @import "fonts";
 
+body {
+    font-family: Arial; 
+    color: #7a7b6d;
+}
 
 h1, h2, h3, h4, h5, h6 {
-    font: Arial;
     color: #3b0954;
     margin:0 0 20px;
 }
 
 p {
-  font: Arial;
   color: #7a7b6d;
   z-index: 1;
   font-size: 1.1em;
