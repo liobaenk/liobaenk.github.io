@@ -15,7 +15,7 @@
 header {
   position: relative;
   padding-right: 0;
-  padding: 20px;
+  padding: 0px;
   font-size: 3em;
 }
 
@@ -62,7 +62,7 @@ a {
   text-decoration:none;
 }
 
-a:hover a:focus {
+a:hover {
   color: #0C0088;
   text-decoration:none;
   font-weight: 400;
@@ -74,7 +74,8 @@ hr {
 }
 
 footer {
-  padding: 20px;
+  padding: 0px;
+  width: 800px;
   text-align: right;
   position: relative;
 }
