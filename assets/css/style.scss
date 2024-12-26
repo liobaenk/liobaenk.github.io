@@ -17,6 +17,12 @@
   margin:10 auto;
 }
 
+header {
+  width:270px;
+  position:fixed;
+  -webkit-font-smoothing:subpixel-antialiased;
+}
+
 body {
   background: white; /* Fallback */
   animation: color 11s infinite linear;
