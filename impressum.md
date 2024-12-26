@@ -3,7 +3,7 @@ layout: default
 title: "Impressum"
 ---
 
-Angaben gemäß § 5 TMG
+Angaben gemäß § 5 TMG<br>
 Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 
 Lioba Enk<br>
