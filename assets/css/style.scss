@@ -23,6 +23,8 @@ header {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
+img {}
+
 body {
   background: white; /* Fallback */
   animation: color 11s infinite linear;
@@ -30,10 +32,6 @@ body {
   font-family: Arial;
   color:#7a7b6d;
   z-index: 0;
-}
-
-figure {
-  float: right;
 }
 
 section {
