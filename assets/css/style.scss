@@ -12,17 +12,17 @@
   100% { background: white; }
 }
 
-h1, h2, h3, h4 {
-    color: #3b0954;
-    font-family: Arial;
-    margin:0 0 20px;
-}
-
 body {
   background: white; /* Fallback */
   animation: color 11s infinite linear;
+  font-family: Arial;
   padding: 3em;
   z-index: 0;
+}
+
+h1, h2, h3, h4 {
+    color: #3b0954;
+    margin:0 0 20px;
 }
 
 p {
