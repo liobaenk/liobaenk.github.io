@@ -5,10 +5,9 @@ mpicbs_dic : "https://www.cbs.mpg.de/diversity-inclusion-committee"
 mpscogn_cohort21 : "https://cognition.maxplanckschools.org/en/people/doctoral-candidates/2021"
 ---
 
-{% include portrait.html %}
-
-
 ##Lioba Enk
+
+{% include portrait.html %}
 
 [{{ site.email }}](mailto:{{ site.email }})  |  [MPI CBS profile]({{ site.institution_profile }})  |  [Google Scholar]({{ site.google_scholar }})  |  [Full CV](assets/pdfs/Enk_CV.pdf)
 
