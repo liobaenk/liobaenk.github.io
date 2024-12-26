@@ -4,8 +4,6 @@ title: "Impressum"
 permalink: /impressum
 ---
 
- {% include navigation.html %}
-
 Impressum
 
 Angaben gemäß § 5 TMG
