@@ -13,9 +13,5 @@ Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.¶
  
 Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.¶ 
 
----
-
 [Curriculum Vitae](assets/pdfs/Enk_CV.pdf)
-
-[Impressum](Impressum.md)
 
