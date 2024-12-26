@@ -13,14 +13,14 @@
 }
 
 .wrapper {
-  width:860px;
+  width: max-content;
   margin:10 auto;
 }
 
 header {
-  position: absolute;
-  right: 0;
-  bottom: 0;
+  padding: 60px;
+  text-align: left;
+  font-size: 30px;
 }
 
 figure {
