@@ -7,7 +7,7 @@ Angaben gemäß § 5 TMG<br>
 Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 
 Lioba Enk<br>
-enk.lioba@gmail.com
+enk.lioba [at] gmail.com
 
 Haftungsausschluss: <br>
 
