@@ -38,7 +38,10 @@ body {
 
 figcaption {
   clear: both;
-  margin-bottom: 3em;
+}
+
+img:hover {
+  transform: scaleX(-1);
 }
 
 section {
