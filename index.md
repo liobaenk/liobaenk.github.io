@@ -9,7 +9,7 @@ mpscogn_cohort21 : "https://cognition.maxplanckschools.org/en/people/doctoral-ca
 
 <a href="/assets/pdfs/Enk_CV.pdf" target="_blank">Full CV</a> &nbsp; &nbsp;
 <a href="https://www.cbs.mpg.de/person/enk/1770355" target="_blank">Institution Profile</a> &nbsp; &nbsp;
-<a href= "mailto:enk.lioba@gmail.com">Mail</a>
+<a href= "mailto:enk.lioba@gmail.com">Contact</a>
 
 
 
