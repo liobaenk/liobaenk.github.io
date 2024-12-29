@@ -3,4 +3,5 @@ layout: default
 title: README
 ---
 
-Personal wbsite created by Lioba Enk.
+Personal website created by Lioba Enk.
+Contact: enk.lioba@gmail.com
