@@ -9,9 +9,8 @@ As research assistant/ intern at the Max Planck Institute of Psychiatry in Munic
 Besides my scientific work, I have served as cohort representative for the Max Planck School of Cognition and as speaker of the [Diversity and Inclusion Committee of the MPI CBS](https://www.cbs.mpg.de/diversity-inclusion-committee). Amongst else, I am the main author to the Gender Equality Plan 2024-2026 of the MPI CBS and am currently conceptualizing a service that tracks gender (im)balances in citation practices.
 
 
-<a href="/assets/pdfs/Enk_CV.pdf" target="_blank">Full CV</a> &nbsp; &nbsp;
-<a href="https://www.cbs.mpg.de/person/enk/1770355" target="_blank">Work Profile</a> &nbsp; &nbsp;
-enk.lioba [at] gmail.com
+<a href="/assets/pdfs/Enk_CV.pdf" target="_blank">Full CV</a><br>
+<a href="https://www.cbs.mpg.de/person/enk/1770355" target="_blank">Work Profile</a>
 
 
 
