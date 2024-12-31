@@ -3,6 +3,11 @@
 
 @import "{{ site.theme }}";
 
+* {
+padding: 0;
+margin: 0;
+}
+
 @keyframes color {
   0%   { background: white; }
   20%  { background: #fffafa; }
