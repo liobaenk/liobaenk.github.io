@@ -3,10 +3,7 @@
 
 @import "{{ site.theme }}";
 
-* {
-padding: 0;
-margin: 0;
-}
+html { overflow-x: hidden; }
 
 @keyframes color {
   0%   { background: white; }
@@ -36,6 +33,7 @@ navbar {
 }
 
 body {
+  overflow-x: hidden;
   background: white; /* Fallback */
   animation: color 11s infinite linear;
   font-family: Arial;
