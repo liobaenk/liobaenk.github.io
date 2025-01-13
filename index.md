@@ -10,7 +10,8 @@ Besides my scientific work, I have been serving as cohort representative for the
 
 
 <a href="/assets/pdfs/Enk_CV.pdf" target="_blank">Full CV</a><br>
-<a href="https://www.cbs.mpg.de/person/enk/1770355" target="_blank">Work Profile</a>
+<a href="https://www.cbs.mpg.de/person/enk/1770355" target="_blank">Work Profile</a><br>
+@liobaenk.bsky.social
 
 
 
